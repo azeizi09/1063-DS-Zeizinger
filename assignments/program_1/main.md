@@ -6,7 +6,7 @@
 *     This program reads in images stored as rgb values in a space delimited file format.
 * @Course: 1063 Data Structures
 * @Semester: Spring 2017
-* @Date: 02 06 2017
+* @Date: 06 02 2017
 */
 
 #include<iostream>
