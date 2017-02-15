@@ -1,4 +1,3 @@
-```cpp
 /**
 * @ProgramName: Program-2
 * @Author: Alexander Zeizinger
@@ -223,4 +222,3 @@ int main()
 
   return 0;
 }
-```
