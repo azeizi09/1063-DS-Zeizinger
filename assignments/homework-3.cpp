@@ -1,4 +1,3 @@
-```cpp
 /**
 * @Homework: Homework-3
 * @Author: Alexander Zeizinger 
@@ -43,4 +42,3 @@ void Print()
     cout<<endl;
   }
 }
-```
