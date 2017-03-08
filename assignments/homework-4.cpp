@@ -1,4 +1,3 @@
-```cpp
 /**
 * @ProgramName: Binary Search
 * @Author: 1063 Team - Alexander Zeizinger 
@@ -196,4 +195,3 @@ int main()
 
   return 0;
 }
-```
