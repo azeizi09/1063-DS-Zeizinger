@@ -148,7 +148,7 @@ int BinarySearch(int* data, int key, int size)
     else if(middle == left || middle == right)
     {
       found == false;
-      return -1;
+      return -1; // This is the fix for our problem.
     }
     else
     {
