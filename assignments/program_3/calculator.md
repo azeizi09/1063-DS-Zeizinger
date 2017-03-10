@@ -3,8 +3,7 @@
 * @ProgramName: Infix Calculator
 * @Author: Alexander Zeizinger 
 * @Description: 
-*     This program receives an equation, converts the equation from infix to postfix, and then calculates 
- the output before displaying the correct result for the user to see.
+*     This program receives an equation, converts the equation from infix to postfix, and then calculates the output before displaying the correct result for the user to see.
 * @Course: 1063 Data Structures
 * @Semester: Spring 2017
 * @Date: 13 03 2017
